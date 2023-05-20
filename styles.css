@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #task-input {
+    margin-bottom: 20px;
+  }
+  
+  #task-input input[type="text"] {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  #task-input button {
+    padding: 5px 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #pending-tasks h2, #completed-tasks h2 {
+    margin-bottom: 10px;
+  }
+  
